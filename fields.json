@@ -1,6 +1,11 @@
-[
-  {
-    "field": "params.podcast_title",
-    "label": "Podcast title"
-  }
-]
+{
+	"version": "1.0",
+	"name": "Podcast title",
+	"description": "This plug-in for Micro.blog adds a \"Podcast title\" setting, overriding the default podcast.xml file.",
+	"fields": [
+	  {
+		"field": "params.podcast_title",
+		"label": "Podcast title"
+	  }
+	]
+}
